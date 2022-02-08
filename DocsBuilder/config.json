@@ -1,0 +1,12 @@
+{
+  "ApplicationConfiguration": [
+    {
+      "origin": "docs\\zh-cn",
+      "template": "template",
+      "destination": "devdocs\\docs\\zh-cn",
+      "catalog": "docs\\zh-cn\\toc.yml",
+      "webRoot": "devdocs",
+      "git": "https://github.com/xxx/docs/blob/master/docs/zh-cn/"
+    }
+  ]
+}
